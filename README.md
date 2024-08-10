@@ -147,9 +147,3 @@ Discuss the short-term and long-term trends identified.
 Analyze the impact of external factors or significant events on the stock prices.
 
 Provide insights and recommendations based on the forecasting results.
-
-References
-ARIMA Model Documentation
-LSTM Networks
-Facebook Prophet
-Exponential Smoothing
