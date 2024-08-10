@@ -1,4 +1,10 @@
-# Apple-stock-forecasting-project-
+# Apple stock forecasting project
+
+Check out the demo video:
+
+<a href="https://youtu.be/r2wZKC7ocJk">
+  <img src="https://img.youtube.com/vi/r2wZKC7ocJk/0.jpg" alt="Watch the video" width="300"/>
+</a>
 
 ### Business Objective 
 
@@ -33,6 +39,7 @@ Forecast stock prices for the next 30 days.
 6. Forecasting
 7. Results
 8. Conclusion
+
 
 ## Dataset
 
