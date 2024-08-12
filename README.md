@@ -2,9 +2,8 @@
 
 Check out the demo video:
 
-<a href="https://youtu.be/r2wZKC7ocJk">
-  <img src="https://img.youtube.com/vi/r2wZKC7ocJk/0.jpg" alt="Watch the video" width="300"/>
-</a>
+[![Apple Stock Forecasting 2012 - 2020](https://ytcards.demolab.com/?id=r2wZKC7ocJk&title=Apple+Stock+Forecasting+Model&lang=en&timestamp=1723401000&background_color=230d1117&title_color=23ffffff&stats_color=%23dedede&max_title_lines=16width=250&border_radius=5&duration=311 "Apple stock forecasting 2012 - 2020")](https://www.youtube.com/watch?v=r2wZKC7ocJk)
+
 
 ### Business Objective 
 
